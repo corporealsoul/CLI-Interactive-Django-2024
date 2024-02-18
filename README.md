@@ -24,6 +24,8 @@
 
 **Run Application,**
 
+`(venv) PS D:\GITRepos\CLI-Interactive-Django-2024\cliinteractivedjango2024> python .\manage.py runserver`
+
 `Starting development server at http://127.0.0.1:8000/`
 
 <br>
